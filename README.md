@@ -1,1 +1,1 @@
-# umls_similarity_dash
+# UMLS Similarity Dashboard
